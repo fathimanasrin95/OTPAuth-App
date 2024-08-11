@@ -1,0 +1,23 @@
+
+ #root{
+background-color:aquamarine;
+width:100%;
+ }
+.App {
+  text-align: center;
+  margin: 50px;
+}
+input {
+  margin: 50px;
+  padding: 20px;
+}
+button {
+  padding: 10px;
+  background-color:green;
+  color: Black;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #99269d;
+}
